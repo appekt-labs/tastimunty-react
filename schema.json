@@ -1,0 +1,30 @@
+{
+    "fields": [
+      {
+        "name": "firstName",
+        "type": "text",
+        "label": "First Name",
+        "required": true
+      },
+      {
+        "name": "lastName",
+        "type": "text",
+        "label": "Last Name",
+        "required": true
+      },
+      {
+        "name": "email",
+        "type": "email",
+        "label": "Email",
+        "required": true
+      },
+      {
+        "name": "age",
+        "type": "number",
+        "label": "Age",
+        "required": false
+      }
+    ],
+    "title":"Application Feedback",
+    "description":"Little-known secrets that can steer you to tremendous success"
+  }
